@@ -1,5 +1,5 @@
 
-
+import math
 #kwadrat 
 bok_a =10.4
 print (bok_a)
@@ -14,4 +14,10 @@ print(bok_a*bok_b)
 wys = 6
 podst = 6
 print(1/2*(wys*podst))
+
+# kolo
+r = 6
+print (math.pi*r*r)
+
+
 
